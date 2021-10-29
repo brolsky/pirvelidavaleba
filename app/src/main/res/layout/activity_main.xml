@@ -15,7 +15,7 @@
         android:textSize="25sp"
         android:visibility="visible"
         tools:layout_editor_absoluteX="88dp"
-        tools:layout_editor_absoluteY="109dp" />
+        tools:layout_editor_absoluteY="80dp" />
 
     <Button
         android:layout_width="51dp"
